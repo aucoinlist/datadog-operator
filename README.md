@@ -57,7 +57,7 @@ Operator `1.0.0` contains several changes users need to be aware of:
 - UnixDomainSocket transport for DogStatsD (and APM if enabled)
 - Process Discovery
 
-## Functionalities
+## Functionalities1
 
 The Datadog operator also allows you to:
 
@@ -65,7 +65,7 @@ The Datadog operator also allows you to:
 - [Deploy the Datadog Cluster Agent with your node Agents][7].
 - [Secrets Management with the Datadog Operator][8].
 
-## How to contribute
+## How to contribute. Start from here
 
 See the [How to Contribute page][9].
 
